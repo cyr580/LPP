@@ -5,8 +5,8 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "/Users/cyr580/Documents",
-        "/Users/cyr580/Desktop"
+        "/Users/用户名/Documents",
+        "/Users/用户名/Desktop"
       ]
     }
   }
